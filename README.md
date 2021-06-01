@@ -6,3 +6,5 @@ You should firstly run FaceCollection.py to create your own 'FaceSet.dat' file, 
 Then, run Alert.py, this programme can monitor your room, if people registered come in, it can indentify their name. If someone unknown come in, this monitor will record their face encoding information and send you an email for each intruder.
 
 I comment both in China and English for convenience of people from different region
+
+I choose IMX219 camera module, you can find it here https://item.jd.com/10022506688217.html
