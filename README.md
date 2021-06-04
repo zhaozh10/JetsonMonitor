@@ -8,3 +8,5 @@ Then, run Alert.py, this programme can monitor your room, if people registered c
 I comment both in China and English for convenience of people from different region
 
 I choose IMX219 camera module, you can find it here https://item.jd.com/10022506688217.html
+
+There is also a demo video https://www.bilibili.com/video/BV18v411V76k
